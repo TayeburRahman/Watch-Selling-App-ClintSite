@@ -1,0 +1,100 @@
+.header{
+    height: 100px;
+    background: black;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    align-items: center;
+    justify-items: center;
+}
+.headers{
+    position: absolute;
+    background-color: rgb(223, 221, 217);
+    height: 80px;
+    top: 30px;
+     width: 85%;
+}
+.text-color{
+    font-weight: 700;
+    color: rgb(255, 81, 0);
+}
+.text-color:hover{
+    font-weight: 700;
+    color: rgb(255, 81, 0);
+}
+.text-color-mnu{
+    font-weight: 400;
+    color: rgb(24, 24, 24);
+}
+#collasible-nav-dropdown:hover{
+    font-weight: 400 !important;
+    color: rgb(180, 17, 17) !important;
+}
+.text-color-mnu:hover{
+    font-weight: 400;
+    color: rgb(180, 17, 17);
+}
+.bg-colors{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(247, 247, 247);
+   
+}
+#collasible-nav-dropdown {
+    color: black !important;
+
+}
+
+.Dropdown:hover{
+    color: rgb(73, 73, 73);
+    background-color: rgb(21, 230, 167);
+}
+
+.text-color-tag{
+    color: rgb(220, 233, 218);
+
+}
+
+.cart{
+    position: relative;
+}
+.cartIcons{
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 14px;
+    color: gainsboro;
+    background-color: crimson;
+    border-radius: 50%;
+    padding: 0px 3px 0px 3px;
+
+}
+
+
+.footer {
+    font: bold;
+    color: yellow;
+    text-align: left;
+    font-weight:600;
+    background-color: cornflowerblue;
+}
+.footer a{
+    color: rgb(223, 223, 223);
+    text-decoration: none;
+}
+.text-p{
+    color: lavenderblush;
+}
+.footer a:hover{
+    text-decoration: underline;
+}
+.text-email{
+    color: #474f04;
+}
+@media only screen and (max-width: 991px) {
+    .right-sec-heder{
+        justify-content: center;
+    }
+     
+   
+}

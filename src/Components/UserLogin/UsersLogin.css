@@ -1,0 +1,9 @@
+.loginBG{
+    background-image: url("../../image/faqbackground.png");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    height: 650px;
+    align-content: center;
+    justify-items: stretch;
+
+}

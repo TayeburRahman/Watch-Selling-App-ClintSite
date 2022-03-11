@@ -1,0 +1,22 @@
+.submit-button{
+    width: 30%;
+    background-color: #07e195;
+    color: white;
+    padding: 10px 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.submit-input{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+.makeAdminText{
+    color: rgb(207, 139, 13);
+}

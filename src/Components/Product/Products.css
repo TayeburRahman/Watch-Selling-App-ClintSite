@@ -1,0 +1,40 @@
+.width{
+    width: 300px;
+}
+.addService-text{
+    background-color: rgb(243, 241, 241);
+    color: rgb(245, 119, 2);
+}
+.buttons{
+    background-color: rgb(247, 87, 23);
+    color: white;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+.Rating{
+    font-size: 20px;
+    color: rgb(162, 170, 7);
+}
+.product-row{
+    justify-content: center
+}
+.product-section-name{
+    background-color: rgb(237, 237, 237);
+}
+.button-search{
+    width: 50px;
+    border: 2px solid rgb(28, 37, 61);
+    background-color: rgb(141, 177, 11);
+    color: rgb(255, 255, 255);
+}
+.search-input{
+    border: 2px solid rgba(37, 46, 21, 0.741);
+
+}
+.product-left-top-div{
+    border: 1px solid rgb(209, 209, 209);
+}
+
+.addProduct{
+justify-content: center
+}

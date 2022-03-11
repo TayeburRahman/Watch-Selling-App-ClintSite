@@ -1,0 +1,14 @@
+.bannerBg {
+  background-image: url("../../image/watch1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 70px;
+ }
+
+.carousel-control-prev-icon {
+  background-image: none;
+}
+.carousel-indicators {
+  display: none;
+}
